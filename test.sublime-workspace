@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"f",
+				"format\tfunction"
+			],
+			[
+				"ge",
+				"get_image\tfunction"
+			],
+			[
+				"re",
+				"repr\tfunction"
+			],
+			[
+				"get",
+				"get_image\tfunction"
+			],
+			[
+				"w",
+				"write\tfunction"
+			],
+			[
+				"ur",
+				"urllib\tmodule"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"ma",
+				"matrix\tstatement"
+			],
+			[
 				"lis",
 				"list1\tstatement"
 			],
@@ -32,130 +68,18 @@
 			"file": "test2.py",
 			"settings":
 			{
-				"buffer_size": 654,
+				"buffer_size": 2222,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n[123, 'abc', 333, 'bbbb']\n123\n\n***Repl Closed***\n",
+			"file": "test3.py",
 			"settings":
 			{
-				"buffer_size": 131,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 149,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 162,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 183,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\nabcabc\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 190,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 212,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 252,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 280,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n123\n1\n12\n23\n12\n3\n123123\nhello 123\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 261,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\nTraceback (most recent call last):\n  File \"test2.py\", line 18, in <module>\n    str[0] = \"1\"\nTypeError: 'str' object does not support item assignment\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 197,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
-			"contents": "  File \"test2.py\", line 27\n    print(\"\\n\"str)\n                ^\nSyntaxError: invalid syntax\n\n***Repl Closed***\n",
-			"settings":
-			{
-				"buffer_size": 111,
-				"line_ending": "Windows",
-				"name": "*REPL* [python]",
-				"read_only": true,
-				"scratch": true
+				"buffer_size": 2158,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -166,6 +90,542 @@
 				"line_ending": "Windows",
 				"name": "*REPL* [python]",
 				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'wangwang', 'Tom', 'tom', 'jerry'}\ntom在集合中\n{'o', 'd', 'a', 'm', 't', 'f', 's'}\n{'o', 'm', 't'}\n{'o', 'd', 'g', 'v', 'a', 'm', 't', 'z', 'f', 'c', 's'}\n{'a', 'd', 's', 'f'}\n{'o', 'v', 'g', 'm', 't', 'z', 'c'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n0 12\n1 34\n2 34\n3 23\n4 45\n5 76\n6 89\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1140,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'jerry', 'tom', 'wangwang', 'Tom'}\ntom在集合中\n{'f', 'a', 's', 'm', 't', 'o', 'd'}\n{'o', 't', 'm'}\n{'f', 'a', 'c', 'v', 'g', 'z', 's', 'm', 't', 'o', 'd'}\n{'s', 'f', 'a', 'd'}\n{'g', 'z', 'c', 'v', 'm', 't', 'o'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\nTraceback (most recent call last):\n  File \"test2.py\", line 98, in <module>\n    for i, j in sequence:\nTypeError: 'int' object is not iterable\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1246,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'Tom', 'wangwang', 'jerry', 'tom'}\ntom在集合中\n{'s', 'd', 'o', 'm', 'f', 'a', 't'}\n{'m', 't', 'o'}\n{'s', 'c', 'z', 'g', 'v', 'd', 'o', 'm', 'f', 'a', 't'}\n{'s', 'f', 'a', 'd'}\n{'c', 'z', 'v', 'm', 't', 'g', 'o'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\nTraceback (most recent call last):\n  File \"test2.py\", line 99, in <module>\n    print(i, sequence[i])\nIndexError: list index out of range\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'tom', 'jerry', 'Tom', 'wangwang'}\ntom在集合中\n{'o', 'f', 's', 'a', 'm', 't', 'd'}\n{'m', 'o', 't'}\n{'o', 'f', 'g', 's', 'a', 'z', 'v', 'm', 't', 'd', 'c'}\n{'d', 'f', 's', 'a'}\n{'o', 'c', 'g', 'z', 'v', 'm', 't'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n12\n34\n34\n23\n45\n76\n89\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1126,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'Tom', 'wangwang', 'tom', 'jerry'}\ntom在集合中\n{'m', 'f', 'd', 'o', 't', 'a', 's'}\n{'m', 'o', 't'}\n{'z', 'm', 'f', 'v', 'd', 'g', 'c', 'o', 't', 'a', 's'}\n{'a', 'f', 'd', 's'}\n{'g', 'c', 't', 'z', 'm', 'v', 'o'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n12\n34\n34\n23\n45\n76\n89\n0 12\n1 34\n2 34\n3 23\n4 45\n5 76\n6 89\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1161,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'jerry', 'Tom', 'wangwang', 'tom'}\ntom在集合中\n{'a', 'd', 's', 't', 'm', 'f', 'o'}\n{'o', 'm', 't'}\n{'a', 'd', 's', 'v', 't', 'm', 'z', 'f', 'g', 'o', 'c'}\n{'s', 'a', 'f', 'd'}\n{'m', 'g', 'v', 't', 'z', 'o', 'c'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n12\n34\n34\n23\n45\n76\n89\n0 12\n1 34\n2 34\n3 23\n4 45\n5 76\n6 89\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1161,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'jerry', 'wangwang', 'tom', 'Tom'}\ntom在集合中\n{'o', 'f', 'd', 't', 'a', 'm', 's'}\n{'t', 'm', 'o'}\n{'o', 'f', 'c', 'z', 'd', 't', 'a', 'v', 'm', 's', 'g'}\n{'s', 'd', 'a', 'f'}\n{'c', 'z', 'v', 'g', 'o', 't', 'm'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n12\n34\n34\n23\n45\n76\n89\n0 12\n1 34\n2 34\n3 23\n4 45\n5 76\n6 89\n0 1 1 2 3 5 8 13 21 34 55 \n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'tom', 'jerry', 'wangwang', 'Tom'}\ntom在集合中\n{'t', 's', 'm', 'd', 'o', 'f', 'a'}\n{'m', 't', 'o'}\n{'z', 't', 's', 'm', 'v', 'd', 'c', 'o', 'f', 'a', 'g'}\n{'f', 'd', 'a', 's'}\n{'z', 't', 'v', 'm', 'g', 'c', 'o'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n12\n34\n34\n23\n45\n76\n89\n0 12\n1 34\n2 34\n3 23\n4 45\n5 76\n6 89\n0 \n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1163,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'wangwang', 'Tom', 'tom', 'jerry'}\ntom在集合中\n{'m', 't', 's', 'o', 'd', 'a', 'f'}\n{'t', 'm', 'o'}\n{'m', 'g', 'z', 't', 's', 'o', 'd', 'a', 'v', 'f', 'c'}\n{'f', 's', 'a', 'd'}\n{'g', 'z', 't', 'v', 'm', 'o', 'c'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n12\n34\n34\n23\n45\n76\n89\n0 12\n1 34\n2 34\n3 23\n4 45\n5 76\n6 89\n0 1 1 2 3 5 8 13 21 34 55 \n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'tom', 'wangwang', 'jerry', 'Tom'}\ntom在集合中\n{'m', 'd', 'f', 'a', 'o', 't', 's'}\n{'m', 't', 'o'}\n{'v', 'm', 'z', 'd', 'f', 'a', 'g', 'o', 't', 's', 'c'}\n{'f', 'a', 's', 'd'}\n{'m', 'g', 'o', 't', 'c', 'v', 'z'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n12\n34\n34\n23\n45\n76\n89\n0 12\n1 34\n2 34\n3 23\n4 45\n5 76\n6 89\n0 1 1 2 3 5 8 13 21 34 55 89 \n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1190,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "a: 1\nb: 1\nc: 1\nx: 1\ny: 2\nz:3\n============字符串操作===============\nPython\nP\nPytho\nyth\nho\nthon\nPythonPython\nhello Python\n\nPython\n\\nPython\n============列表操作===============\n[123, 'abc', 333, 'bbbb']\n123\n[123, 'abc', 333]\n['abc', 333]\n['abc', 333, 'bbbb']\n[555, 'lplpk', 555, 'lplpk']\n[123, 'abc', 333, 'bbbb', 555, 'lplpk']\n[123, '-----', 333, 'bbbb']\n============元组操作===============\n('asdas', 1234, 'asfasfa', 'vcxb', 252)\nasdas\n('asdas', 1234, 'asfasfa', 'vcxb')\n(1234, 'asfasfa')\n(1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'asdas', 1234, 'asfasfa', 'vcxb', 252)\n('asdas', 1234, 'asfasfa', 'vcxb', 252, 'cccc', 888)\n(['111', '-----', 333, 'bbbb'], [555, 'lplpk'])\n============集合操作===============\n{'wangwang', 'Tom', 'jerry', 'tom'}\ntom在集合中\n{'m', 's', 'f', 'o', 'd', 'a', 't'}\n{'m', 't', 'o'}\n{'m', 's', 'z', 'f', 'o', 'd', 'a', 'c', 't', 'g', 'v'}\n{'a', 's', 'f', 'd'}\n{'m', 'c', 't', 'v', 'z', 'o', 'g'}\n============字典操作===============\n{'aaa': 'hello', 2: 'world'}\nhello\nworld\ndict_keys(['name', 'age'])\ndict_values(['pengzhe', 26])\ndict_values(['pengzhe', '26'])\n12\n34\n34\n23\n45\n76\n89\n0 12\n1 34\n2 34\n3 23\n4 45\n5 76\n6 89\n1 1 2 3 5 8 13 21 34 55 89 \n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1188,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "Traceback (most recent call last):\n  File \"test3.py\", line 23, in <module>\n    test()\n  File \"test3.py\", line 21, in test\n    a = a + 1\nUnboundLocalError: local variable 'a' referenced before assignment\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "  File \"test3.py\", line 27\n    matrix = [\n    ^\nIndentationError: unexpected indent\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "  File \"test3.py\", line 33\n    va = [[row[i] for row in matrix] for i in range(4)]\n    ^\nIndentationError: unexpected indent\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 144,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\nTraceback (most recent call last):\n  File \"test3.py\", line 33, in <module>\n    va = [[row[i][i] for row in matrix] for i in range(4)]\n  File \"test3.py\", line 33, in <listcomp>\n    va = [[row[i][i] for row in matrix] for i in range(4)]\n  File \"test3.py\", line 33, in <listcomp>\n    va = [[row[i][i] for row in matrix] for i in range(4)]\nTypeError: 'int' object is not subscriptable\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\nrange(0, 4)\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 34,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n<generator object <genexpr> at 0x005E0810>\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 113,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "  File \"test3.py\", line 33\n    a = row[i] for row in matrix\n                 ^\nSyntaxError: invalid syntax\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 126,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n<generator object <genexpr> at 0x021B0810>\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 113,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\nTraceback (most recent call last):\n  File \"test3.py\", line 33, in <module>\n    a = [row[i] for row in matrix]\n  File \"test3.py\", line 33, in <listcomp>\n    a = [row[i] for row in matrix]\nNameError: name 'i' is not defined\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 38, in <module>\n    for row[i] in matrix:\nNameError: name 'row' is not defined\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 208,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[1, 2, 3, 4]\n[1, 2, 3, 4]\n[1, 2, 3, 4]\n[5, 6, 7, 8]\n[5, 6, 7, 8]\n[5, 6, 7, 8]\n[9, 10, 11, 12]\n[9, 10, 11, 12]\n[9, 10, 11, 12]\nTraceback (most recent call last):\n  File \"test3.py\", line 39, in <module>\n    print(matrix[i])\nIndexError: list index out of range\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n0 [1, 2, 3, 4]\n0 [1, 2, 3, 4]\n0 [1, 2, 3, 4]\n1 [5, 6, 7, 8]\n1 [5, 6, 7, 8]\n1 [5, 6, 7, 8]\n2 [9, 10, 11, 12]\n2 [9, 10, 11, 12]\n2 [9, 10, 11, 12]\nTraceback (most recent call last):\n  File \"test3.py\", line 39, in <module>\n    print(i,matrix[i])\nIndexError: list index out of range\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n0 [1, 2, 3, 4]\n0 [5, 6, 7, 8]\n0 [9, 10, 11, 12]\n1 [1, 2, 3, 4]\n1 [5, 6, 7, 8]\n1 [9, 10, 11, 12]\n2 [1, 2, 3, 4]\n2 [5, 6, 7, 8]\n2 [9, 10, 11, 12]\n3 [1, 2, 3, 4]\n3 [5, 6, 7, 8]\n3 [9, 10, 11, 12]\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n0 1\n0 5\n0 9\n1 2\n1 6\n1 10\n2 3\n2 7\n2 11\n3 4\n3 8\n3 12\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 39, in <module>\n    print(i,column[i])\nNameError: name 'column' is not defined\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 208,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n0 1\n0 5\n0 9\n1 2\n1 6\n1 10\n2 3\n2 7\n2 11\n3 4\n3 8\n3 12\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n0 1\n0 5\n0 9\n1 2\n1 6\n1 10\n2 3\n2 7\n2 11\n3 4\n3 8\n3 12\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 77, in <module>\n    get_image(url)\n  File \"test3.py\", line 65, in get_image\n    pattern = re.compile(regx)\nNameError: name 're' is not defined\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 368,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "  File \"test3.py\", line 56\n    import urllib.\n                 ^\nSyntaxError: invalid syntax\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 78, in <module>\n    get_image(url)\n  File \"test3.py\", line 69, in get_image\n    for img in get_image:\nTypeError: 'function' object is not iterable\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 372,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 79, in <module>\n    get_image(data)\n  File \"test3.py\", line 71, in get_image\n    with open('s%.jpg'%num,'wb') as fp:\nValueError: unsupported format character 'j' (0x6a) at index 3\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 79, in <module>\n    get_image(data)\n  File \"test3.py\", line 71, in get_image\n    with open('s%.jpg'%num,'wb') as fp:\nValueError: unsupported format character 'j' (0x6a) at index 3\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 79, in <module>\n    get_image(data)\n  File \"test3.py\", line 71, in get_image\n    with open('s%.jpg'%num,'wb') as fp:\nValueError: unsupported format character 'j' (0x6a) at index 3\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 79, in <module>\n    get_image(data)\n  File \"test3.py\", line 74, in get_image\n    print('正在下载第s%张图片'%num.center(20,'='))\nAttributeError: 'int' object has no attribute 'center'\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 400,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\nTraceback (most recent call last):\n  File \"test3.py\", line 79, in <module>\n    get_image(data)\n  File \"test3.py\", line 71, in get_image\n    with open('F:\\\\pythonSpiderImg\\{}.jpg'.format(num),'wb') as fp:\nFileNotFoundError: [Errno 2] No such file or directory: 'F:\\\\pythonSpiderImg\\\\1.jpg'\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n=====正在下载第1张图片======\n=====正在下载第2张图片======\n=====正在下载第3张图片======\nTraceback (most recent call last):\n  File \"test3.py\", line 79, in <module>\n    get_image(data)\n  File \"test3.py\", line 70, in get_image\n    image = download_page(img)\n  File \"test3.py\", line 61, in download_page\n    response = urllib.request.urlopen(request)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 223, in urlopen\n    return opener.open(url, data, timeout)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 532, in open\n    response = meth(req, response)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 642, in http_response\n    'http', request, response, code, msg, hdrs)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 570, in error\n    return self._call_chain(*args)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 504, in _call_chain\n    result = func(*args)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 650, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 404: Not Found\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1299,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n=====正在下载第1张图片======\n=====正在下载第2张图片======\n=====正在下载第3张图片======\nTraceback (most recent call last):\n  File \"test3.py\", line 81, in <module>\n    get_image(data)\n  File \"test3.py\", line 72, in get_image\n    image = download_page(img)\n  File \"test3.py\", line 63, in download_page\n    response = urllib.request.urlopen(request) #获取服务器响应\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 223, in urlopen\n    return opener.open(url, data, timeout)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 532, in open\n    response = meth(req, response)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 642, in http_response\n    'http', request, response, code, msg, hdrs)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 570, in error\n    return self._call_chain(*args)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 504, in _call_chain\n    result = func(*args)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 650, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 404: Not Found\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n=====正在下载第1张图片======\n=====正在下载第2张图片======\n=====正在下载第3张图片======\nTraceback (most recent call last):\n  File \"test3.py\", line 81, in <module>\n    get_image(data)\n  File \"test3.py\", line 72, in get_image\n    image = download_page(img)\n  File \"test3.py\", line 63, in download_page\n    response = urllib.request.urlopen(request) #获取服务器响应\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 223, in urlopen\n    return opener.open(url, data, timeout)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 532, in open\n    response = meth(req, response)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 642, in http_response\n    'http', request, response, code, msg, hdrs)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 570, in error\n    return self._call_chain(*args)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 504, in _call_chain\n    result = func(*args)\n  File \"D:\\Programs\\Python\\Python36-32\\lib\\urllib\\request.py\", line 650, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 404: Not Found\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "  File \"test3.py\", line 68\n    continue\n    ^\nSyntaxError: 'continue' not properly in loop\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "11\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]\n=====正在下载第1张图片======\n=====正在下载第2张图片======\n=====正在下载第3张图片======\nhref error\nhref error\nhref error\nhref error\nhref error\n=====正在下载第4张图片======\n=====正在下载第5张图片======\n=====正在下载第6张图片======\n=====正在下载第7张图片======\n=====正在下载第8张图片======\n=====正在下载第9张图片======\n=====正在下载第10张图片=====\n=====正在下载第11张图片=====\n=====正在下载第12张图片=====\n=====正在下载第13张图片=====\n=====正在下载第14张图片=====\n=====正在下载第15张图片=====\n=====正在下载第16张图片=====\n=====正在下载第17张图片=====\n=====正在下载第18张图片=====\n=====正在下载第19张图片=====\n=====正在下载第20张图片=====\n=====正在下载第21张图片=====\n=====正在下载第22张图片=====\n=====正在下载第23张图片=====\n=====正在下载第24张图片=====\n=====正在下载第25张图片=====\n=====正在下载第26张图片=====\n=====正在下载第27张图片=====\n=====正在下载第28张图片=====\n=====正在下载第29张图片=====\n=====正在下载第30张图片=====\n=====正在下载第31张图片=====\n=====正在下载第32张图片=====\n=====正在下载第33张图片=====\n=====正在下载第34张图片=====\n=====正在下载第35张图片=====\n=====正在下载第36张图片=====\n=====正在下载第37张图片=====\n=====正在下载第38张图片=====\n=====正在下载第39张图片=====\n=====正在下载第40张图片=====\n=====正在下载第41张图片=====\n=====正在下载第42张图片=====\n=====正在下载第43张图片=====\n=====正在下载第44张图片=====\n=====正在下载第45张图片=====\n=====正在下载第46张图片=====\n=====正在下载第47张图片=====\n=====正在下载第48张图片=====\n=====正在下载第49张图片=====\n=====正在下载第50张图片=====\n=====正在下载第51张图片=====\n=====正在下载第52张图片=====\n=====正在下载第53张图片=====\n=====正在下载第54张图片=====\n=====正在下载第55张图片=====\n=====正在下载第56张图片=====\n=====正在下载第57张图片=====\n=====正在下载第58张图片=====\n=====正在下载第59张图片=====\n=====正在下载第60张图片=====\n=====正在下载第61张图片=====\n=====正在下载第62张图片=====\n=====正在下载第63张图片=====\n=====正在下载第64张图片=====\n=====正在下载第65张图片=====\n=====正在下载第66张图片=====\n=====正在下载第67张图片=====\n=====正在下载第68张图片=====\n=====正在下载第69张图片=====\n=====正在下载第70张图片=====\n=====正在下载第71张图片=====\n=====正在下载第72张图片=====\n=====正在下载第73张图片=====\n=====正在下载第74张图片=====\n=====正在下载第75张图片=====\n=====正在下载第76张图片=====\n=====正在下载第77张图片=====\n=====正在下载第78张图片=====\n=====正在下载第79张图片=====\n=====正在下载第80张图片=====\n=====正在下载第81张图片=====\n=====正在下载第82张图片=====\n=====正在下载第83张图片=====\n=====正在下载第84张图片=====\n=====正在下载第85张图片=====\n=====正在下载第86张图片=====\n=====正在下载第87张图片=====\n=====正在下载第88张图片=====\n=====正在下载第89张图片=====\n=====正在下载第90张图片=====\n=====正在下载第91张图片=====\n=====正在下载第92张图片=====\n=====正在下载第93张图片=====\n=====正在下载第94张图片=====\n=====正在下载第95张图片=====\n=====正在下载第96张图片=====\n=====正在下载第97张图片=====\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 2258,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
 				"scratch": true
 			}
 		}
@@ -193,8 +653,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
-		"last_filter": "remove",
+		"height": 35.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -235,6 +695,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
 		"/F/pythonTest/test.sublime-project",
 		"/F/pythonTest/test2",
@@ -290,7 +751,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -330,7 +791,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -339,15 +800,59 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 654,
+						"buffer_size": 2222,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								514,
-								514
+								2038,
+								2038
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1800.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test3.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2064,
+								2064
 							]
 						],
 						"settings":
@@ -367,7 +872,7 @@
 							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 285.0,
+						"translation.y": 1026.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -376,23 +881,23 @@
 			]
 		},
 		{
-			"selected": 11,
+			"selected": 49,
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 131,
+						"buffer_size": 297,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								131,
-								131
+								297,
+								297
 							]
 						],
 						"settings":
@@ -407,7 +912,2418 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "bd9122e326d0442087bbf1ba09732fe0",
+							"repl_id": "f1b114fbbc3f49478fbd641d4c40b974",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 52,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1140,
+								1140
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "ee50a46dca034cec884963a530eed728",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 787.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 51,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1246,
+								1246
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "afe3171d04874285a60868e5f884e585",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 388.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 50,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1242,
+								1242
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "cc3cfea25e984547bb62115d4315c7a0",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 388.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 49,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1126,
+								1126
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "78a07b22ea5846a6bba9bd3cf4416dbf",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 787.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 48,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1161,
+								1161
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "9490417c2ecb49c3bc215298f1e715a5",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 47,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1161,
+								1161
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "082b79eb0d574e8dac17336430cfe2a3",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 46,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1187,
+								1187
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "5c83013b0139407885f9d4e45ff6867c",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 45,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1163,
+								1163
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "c1d73a9df7ce44df91366e8b1e8ad5b9",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1187,
+								1187
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "4cacc4c1b01147efaf0a59b1e5a27872",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1190,
+								1190
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "04a2978a5aed411f954949d80d8b79ec",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1188,
+								1188
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "f8b4a325773e4b978303884e638f9152",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "a7a8a2ead3a14ae493da67b92d2b0f3e",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "c12e6a517b784376bc37f2968aecb075",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "62dd4995598b428aa530cef30216b188",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "08f6a9c93786478bbbd1db79ed51a894",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "de95796c05294264afb239bd542a9c37",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								124
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "063cd0de9f424efe9879b03cc5fb387d",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "559ea4276c0040f0804a1d3fca72993b",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								403
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "fddb216e79aa4cc69f0f6538d229f6db",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "e3c14872b9de4ba2afa1e77ddc6524ef",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "838327feef0349549e43e2f7291e2410",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "faf76cca589a48b8adf80ecf454b3429",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "ac62b1dff9174bdda2fdeaccea87dbdf",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "6d69e5502f2f41b3a220874ac386c977",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "0748cd9581a1400ab1eba4f25170ac55",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "c5a650d9da254d61a7fd8a91198f021c",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "02c3ba6bb40c4cf7a2e7d93ca4063161",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								65
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "b5c6974703a740099e9c8e7815220147",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "322df416d3484cf99f19fdc1ece7e12b",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "f9c3dcde95644bf4880d2171dfc345ba",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "b5e4e2689d9d4366a8d3b2ef7e04b4e2",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "a655a6f47ead41e4b478cb8ddfadf654",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "809e4384a3b44bfd924101266979bf75",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "9a4ca3badcbc4eaf9b00eb58c40f61dc",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "c35bfcbf017d48d6b27f6f03bad39468",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "8b73be23d2874b4b8a7f37e73ddd9da7",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "6d472a845f6b46c5a85ceda270b90bfc",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "897dee9026804a3cb1793bd92ef60122",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "8208d9ac29894092bd51d080ee096f10",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								363
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "F:\\pythonTest",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "65345939491c4024b4d7ff8dcc241468",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -440,19 +3356,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 44,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 149,
+						"buffer_size": 405,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								149,
-								149
+								405,
+								405
 							]
 						],
 						"settings":
@@ -467,7 +3383,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "027e16890f7a4a2fb56a8947f344e09a",
+							"repl_id": "3139b92fce9c493087c523b8f7e9b996",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -500,19 +3416,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 45,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 162,
+						"buffer_size": 405,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								162,
-								162
+								323,
+								363
 							]
 						],
 						"settings":
@@ -527,7 +3443,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "9384da92265042d6b6609eb1802ebe31",
+							"repl_id": "a17943f688604f1d86c7f62123044da3",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -560,19 +3476,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 46,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 183,
+						"buffer_size": 400,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								183,
-								183
+								400,
+								400
 							]
 						],
 						"settings":
@@ -587,7 +3503,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "07ec4816160b4210b5d86b6ded8c901d",
+							"repl_id": "6925fc2e7c4542ac93be1a64afd98f9b",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -620,19 +3536,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 47,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 190,
+						"buffer_size": 455,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								190,
-								190
+								412,
+								427
 							]
 						],
 						"settings":
@@ -647,7 +3563,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "3dcc142d5e4d41e18cc17327c67146f6",
+							"repl_id": "f989c2f4938f40d7b80a87570ab8831f",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -680,19 +3596,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 48,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 212,
+						"buffer_size": 1299,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								212,
-								212
+								1299,
+								1299
 							]
 						],
 						"settings":
@@ -707,127 +3623,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "50aeebe54c95462b99cd6fdfe3bacd97",
-							"repl_restart_args":
-							{
-								"cmd":
-								[
-									"python",
-									"-u",
-									"$file_basename"
-								],
-								"cwd": "$file_path",
-								"encoding": "utf8",
-								"extend_env":
-								{
-									"PYTHONIOENCODING": "utf-8"
-								},
-								"external_id": "python",
-								"syntax": "Packages/Python/Python.tmLanguage",
-								"type": "subprocess"
-							},
-							"repl_sublime2": false,
-							"smart_indent": false,
-							"spell_check": false,
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 252,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								252,
-								252
-							]
-						],
-						"settings":
-						{
-							"auto_complete": true,
-							"auto_indent": false,
-							"default_dir": "F:\\pythonTest",
-							"detect_indentation": false,
-							"gutter": false,
-							"history_arrows": true,
-							"indent_subsequent_lines": false,
-							"line_numbers": false,
-							"repl": true,
-							"repl_external_id": "python",
-							"repl_id": "0f3155f9b3dc42b39b4893d8f10c017c",
-							"repl_restart_args":
-							{
-								"cmd":
-								[
-									"python",
-									"-u",
-									"$file_basename"
-								],
-								"cwd": "$file_path",
-								"encoding": "utf8",
-								"extend_env":
-								{
-									"PYTHONIOENCODING": "utf-8"
-								},
-								"external_id": "python",
-								"syntax": "Packages/Python/Python.tmLanguage",
-								"type": "subprocess"
-							},
-							"repl_sublime2": false,
-							"smart_indent": false,
-							"spell_check": false,
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 280,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								280,
-								280
-							]
-						],
-						"settings":
-						{
-							"auto_complete": true,
-							"auto_indent": false,
-							"default_dir": "F:\\pythonTest",
-							"detect_indentation": false,
-							"gutter": false,
-							"history_arrows": true,
-							"indent_subsequent_lines": false,
-							"line_numbers": false,
-							"repl": true,
-							"repl_external_id": "python",
-							"repl_id": "a144c108118a4cdcbd45844e1c95c3b8",
+							"repl_id": "7a79fdc9e16249e5860a783cc8ff24cb",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -860,19 +3656,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 49,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 261,
+						"buffer_size": 1308,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								261,
-								261
+								1194,
+								1203
 							]
 						],
 						"settings":
@@ -887,7 +3683,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "db340c571307488fb89d41c540e981aa",
+							"repl_id": "60cd8e257d6344cc9672184788ed859d",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -920,19 +3716,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 50,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 197,
+						"buffer_size": 1308,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								197,
-								197
+								1308,
+								1308
 							]
 						],
 						"settings":
@@ -947,7 +3743,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "15f54fe96731479cb37b784c4ca1ef1e",
+							"repl_id": "8d12e80a722a4e2e82989207630e975f",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -980,19 +3776,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 51,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 111,
+						"buffer_size": 110,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								111,
-								111
+								110,
+								110
 							]
 						],
 						"settings":
@@ -1007,7 +3803,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "03e3dfa693984abd97a13e75c7fe25f5",
+							"repl_id": "6f5556059500424ebb9a2b3087605c0b",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -1040,19 +3836,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 52,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 297,
+						"buffer_size": 2258,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								297,
-								297
+								2258,
+								2258
 							]
 						],
 						"settings":
@@ -1067,7 +3863,7 @@
 							"line_numbers": false,
 							"repl": true,
 							"repl_external_id": "python",
-							"repl_id": "a566f70fb82c46dd82d09111824e1f58",
+							"repl_id": "8200eac550f14b1a9a7639405a5d73b2",
 							"repl_restart_args":
 							{
 								"cmd":
@@ -1093,7 +3889,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 171.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,

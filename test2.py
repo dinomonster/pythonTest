@@ -92,3 +92,31 @@ print(dict2.values())
 dict2['age'] = str(dict2['age'])#类型转换
 print(dict2.values())
 
+
+
+sequence = [12, 34, 34, 23, 45, 76, 89]
+for i in sequence:
+    print(i)
+
+sequence = [12, 34, 34, 23, 45, 76, 89]
+for i,j in enumerate(sequence):
+    print(i,j)
+
+
+import sys
+
+def fibonacci(n): # 生成器函数 - 斐波那契
+    a, b, counter = 0, 1, 0
+    while True:
+        if (counter > n):
+            return
+        yield a
+        a, b = b, a + b
+        counter += 1
+f = fibonacci(10) # f 是一个迭代器，由生成器返回生成
+
+while True:
+    try:
+        print (next(f), end=" ")
+    except StopIteration:
+        sys.exit()
